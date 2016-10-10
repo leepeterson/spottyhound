@@ -7,7 +7,7 @@ Inspired by Big Mama Thornton's 1952 version of "Hound Dog", recorded August 13,
 
 Simply create a Slash Command, such as `/spottyhound`, which accepts a track name (also the artist too for a less fuzzy search) to add to a pre-defined Spotify playlist:
 
-    `/spottyhound Big Mama Thornton - Hound Dog`
+    /spottyhound Big Mama Thornton - Hound Dog
 
 ##Installation
 
